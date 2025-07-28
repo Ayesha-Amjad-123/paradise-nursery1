@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paradise-nursery1/static/css/main.cf67cd55.css",
+    "main.js": "/paradise-nursery1/static/js/main.4578928c.js",
+    "index.html": "/paradise-nursery1/index.html",
+    "main.cf67cd55.css.map": "/paradise-nursery1/static/css/main.cf67cd55.css.map",
+    "main.4578928c.js.map": "/paradise-nursery1/static/js/main.4578928c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf67cd55.css",
+    "static/js/main.4578928c.js"
+  ]
+}
